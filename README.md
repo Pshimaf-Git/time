@@ -23,7 +23,7 @@ You can then move `time.exe` to a directory in your PATH to use it globally.
 Or you can use `go install`:
 
 ```bash
-go install github.com/Pshimaf-Git/time
+go install github.com/Pshimaf-Git/time/time
 ```
 
 ## Usage
